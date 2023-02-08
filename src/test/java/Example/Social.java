@@ -1,7 +1,8 @@
 
 package Example;
 
-import javax.annotation.Generated;
+
+import javax.annotation.processing.Generated;
 
 @Generated("jsonschema2pojo")
 public class Social {
